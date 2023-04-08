@@ -1,6 +1,6 @@
 {
   "name": "chus-toolbox",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "main": "./dist/chus-toolbox.umd.cjs",
   "module": "./dist/chus-toolbox.js",
