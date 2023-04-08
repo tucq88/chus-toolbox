@@ -1,5 +1,23 @@
 {
   "name": "chus-toolbox",
+  "description": "This is a simple utility package",
+  "author": "Tu Chu",
+  "license": "MIT",
+  "homepage": "https://github.com/tucq88/chus-toolbox",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tucq88/chus-toolbox.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tucq88/chus-toolbox/issues"
+  },
+  "keywords": [
+    "utility",
+    "thechus",
+    "upatra",
+    "thefulfillable",
+    "package"
+  ],
   "version": "0.0.2",
   "type": "module",
   "main": "./dist/chus-toolbox.umd.cjs",
